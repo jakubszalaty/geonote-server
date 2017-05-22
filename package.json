@@ -20,6 +20,7 @@
     "eslint": "3.5.0"
   },
   "scripts": {
+    "dev": "node app.js --port 3000",
     "start": "NODE_ENV=production node app.js",
     "test": "npm run lint && npm run custom-tests && echo 'Done.'",
     "lint": "node ./node_modules/eslint/bin/eslint . --max-warnings=0 && echo '✔  Your code looks good.'",
@@ -29,8 +30,8 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kuba/geonote-server.git"
+    "url": "git://github.com/nnaisur/geonote-server.git"
   },
-  "author": "kuba",
-  "license": ""
+  "author": "Jakub Szalaty (jakub.szalaty@gmail.com)",
+  "license": "MIT"
 }

@@ -13,7 +13,7 @@ a [Sails](https://sailsjs.com) application
 - kazda z nich ma id, date dodania i modyfikacji
 
 - notes
-    - userID
+    - user
     - cords
     - text
 - attachments
@@ -26,6 +26,11 @@ a [Sails](https://sailsjs.com) application
 - users
     - login
     - email
+    - notes
+
+
+## API
+
 
 
 
