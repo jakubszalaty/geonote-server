@@ -36,6 +36,6 @@
   "author": "Jakub Szalaty (jakub.szalaty@gmail.com)",
   "license": "MIT",
   "engines": {
-    "node": "6.10.2"
+    "node": "6.10.0"
   }
 }
