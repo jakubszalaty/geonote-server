@@ -9,8 +9,9 @@ module.exports = {
 
   attributes: {
 
-    cords: {
+    coords: {
       type: 'json'
+      // {'lat': 34, 'lng': 151}
     },
 
     text: {
